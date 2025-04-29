@@ -18,6 +18,7 @@ I found out that their was no __easily accessible way__ to read these QR codes o
 
 ## QR Code Generator Application
 A simple desktop application built with Python and PyQt5 for generating and reading QR codes.
+<br>
 
 ### 🛠️ Features
 
@@ -37,7 +38,7 @@ Libraries:
 
 ### ⚙️ Installation
 
-__ 1.) Clone the repository:__
+__1.) Clone the repository:__
 <br>
 'git clone https://github.com/yourusername/your-repo.git'
 cd your-repo
