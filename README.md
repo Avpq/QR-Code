@@ -82,7 +82,7 @@ A simple desktop application built with Python and PyQt5 for generating and read
 - Click on the __QR to Text Button__, and you will get the text out of the image
 <div align="center">
 <img src="https://github.com/Avpq/QR-Code/blob/main/assests/qr2text%20(1).gif" width="800" height ="390"/>
-
+<br>
 <img src="https://github.com/Avpq/QR-Code/blob/main/assests/qr2text%20(2).gif" width="800" height ="390"/>
 </div>
 
