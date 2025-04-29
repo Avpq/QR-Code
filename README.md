@@ -89,12 +89,12 @@ A simple desktop application built with Python and PyQt5 for generating and read
 ## 📁 Project Structure
 
 ```text
-├── main.py            # Application entry point and UI logic
-├── QRCodeGUI.ui       # Qt Designer UI file
-├── requirements.txt   # Python dependencies
+├── assests            # Contains the sample images used during demonstration
 ├── LICENSE            # License file
+├── QRCodeGUI.ui       # Qt Designer UI file
 ├── README.md          # This documentation
-└── assests            # Contains the sample images used during demonstration
+├── main.py            # Application entry point and UI logic
+└── requirements.txt   # Python dependencies
 ``` 
 
 ## 📝 Configuration & Customization
