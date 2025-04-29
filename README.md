@@ -93,7 +93,7 @@ A simple desktop application built with Python and PyQt5 for generating and read
 ├── QRCodeGUI.ui       # Qt Designer UI file
 ├── requirements.txt   # Python dependencies
 ├── LICENSE            # License file
-└── README.md          # This documentation
+├── README.md          # This documentation
 └── assests            # Contains the sample images used during demonstration
 ``` 
 
@@ -104,7 +104,7 @@ A simple desktop application built with Python and PyQt5 for generating and read
 
 ## 🤝 Contributing
 
-Feel free to open issues or submit pull requests. For major changes, please discuss what you’d like to change via an issue first or send me an [e-mail](mailto:your.name@example.com?subject=Contribute&body=Write%20how%20you%20will%20contribute%20here)
+Feel free to open issues or submit pull requests. For major changes, please discuss what you’d like to change via an issue first or send me an [e-mail](mailto:avisahai96@gmail.com?subject=Contribute&body=Write%20how%20you%20will%20contribute%20here)
 
 
 ## 📜 License
