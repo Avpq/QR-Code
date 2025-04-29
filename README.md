@@ -39,8 +39,8 @@ Libraries:
 ### ⚙️ Installation
 
 __1.) Clone the repository:__
-'''bash
-git clone https://github.com/Avpq/QR-Code.git
+<br>
+'git clone https://github.com/Avpq/QR-Code.git'
 <br>
 
 __2.) Create & activate a virtual environment (optional but recommended):__
