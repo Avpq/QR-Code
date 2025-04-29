@@ -40,7 +40,10 @@ Libraries:
 
 __1.) Clone the repository:__
 <br>
-'git clone https://github.com/Avpq/QR-Code.git'
+'''
+python
+git clone https://github.com/Avpq/QR-Code.git
+'''
 <br>
 
 __2.) Create & activate a virtual environment (optional but recommended):__
