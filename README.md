@@ -65,7 +65,7 @@ A simple desktop application built with Python and PyQt5 for generating and read
 3. The main window will open—use the buttons to generate or read QR codes.
 <div align="center">
 <p align="center">
-  <img src="assests/image_programme.png" width="600" height ="400" alt="Project Logo"/>
+  <img src="assets/image_programme.png" width="600" height ="400" alt="Project Logo"/>
 </p>
 </div>
 
@@ -74,16 +74,16 @@ A simple desktop application built with Python and PyQt5 for generating and read
 - Click on the __text to QR button__, the QR code will be generated
 - Now Go To File \< Save (alternatively on macOS use the shortcut ^S), now enter the filename and the location you wish to save the image in
 <div align="center">
-<img src="https://github.com/Avpq/QR-Code/blob/main/assests/text2qr.gif" width="800" height ="390"/>
+<img src="https://github.com/Avpq/QR-Code/blob/main/assets/text2qr.gif" width="800" height ="390"/>
 </div>
 
 5. QR to Text
 - Open a PNG file, using the load option (alternatively on macOS use the shortcut ^L)
 - Click on the __QR to Text Button__, and you will get the text out of the image
 <div align="center">
-<img src="https://github.com/Avpq/QR-Code/blob/main/assests/qr2text%20(1).gif" width="800" height ="390"/>
+<img src="https://github.com/Avpq/QR-Code/blob/main/assets/qr2text%20(1).gif" width="800" height ="390"/>
 <br>
-<img src="https://github.com/Avpq/QR-Code/blob/main/assests/qr2text%20(2).gif" width="800" height ="390"/>
+<img src="https://github.com/Avpq/QR-Code/blob/main/assets/qr2text%20(2).gif" width="800" height ="390"/>
 </div>
 
 ## 📁 Project Structure
