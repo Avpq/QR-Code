@@ -16,76 +16,75 @@ I found out that their was no __easily accessible way__ to read these QR codes o
 <br>Hence i thought of building my very own desktop-app.
 <br>
 
-## QR Code Generator Application
+
+# QR Code Generator Application
+
 A simple desktop application built with Python and PyQt5 for generating and reading QR codes.
-<br>
 
-### 🛠️ Features
+## 🛠️ Features
 
-Generate QR Codes: Create QR codes.
-Read QR Codes: Scan and decode existing QR codes.
-Save & Export: Save generated QR codes as image files (PNG).
+- **Generate QR Codes**: Create QR codes with configurable version, box size, border, and error correction level.
+- **Read QR Codes**: Scan and decode existing QR codes using your webcam or image file with OpenCV.
+- **Save & Export**: Save generated QR codes as image files (PNG).
 
-### 📦 Prerequisites
+## 📦 Prerequisites
 
-Python 3.6 or higher
+- **Python** 3.6 or higher
+- **Libraries**:
+  - `PyQt5` (for GUI)  
+  - `qrcode` (for QR code generation)  
+  - `opencv-python` (for reading QR codes)
 
-Libraries:
-- PyQt5 (for GUI)
-- qrcode (for QR code generation)
-- opencv-python (for reading QR codes)
+## ⚙️ Installation
 
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/your-repo.git
+   cd your-repo
+   ```
 
-### ⚙️ Installation
+2. **Create & activate a virtual environment** (optional but recommended):
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate  # macOS/Linux
+   venv\Scripts\activate   # Windows
+   ```
 
-__1.) Clone the repository:__
-<br>
-    git clone https://github.com/Avpq/QR-Code.git
-<br>
+3. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-__2.) Create & activate a virtual environment (optional but recommended):__
-'''
-python3 -m venv venv
-source venv/bin/activate  # macOS/Linux
-venv\\Scripts\\activate   # Windows
-'''
-<br>
+## 🚀 Usage
 
-__3.) Install dependencies:__
-'pip install -r requirements.txt'
+1. **Ensure** the UI file (`QRCodeGUI.ui`) is in the same directory as `main.py` (or update the path in the code).
+2. **Run** the application:
+   ```bash
+   python main.py
+   ```
+3. The main window will open—use the buttons to generate or read QR codes.
 
+## 📁 Project Structure
 
-### 🚀 Usage
-
-1.) Ensure the UI file (QRCodeGUI.ui) is in the same directory as main.py (or update the path in the code).
-2.) Run the application:
-'python main.py'
-
-The main window will open—use the buttons to generate or read QR codes.
-
-
-###📁 Project Structure
-'''
+```text
 ├── main.py            # Application entry point and UI logic
 ├── QRCodeGUI.ui       # Qt Designer UI file
 ├── requirements.txt   # Python dependencies
 ├── LICENSE            # License file
 └── README.md          # This documentation
-'''
+``` 
 
-###📝 Configuration & Customization
+## 📝 Configuration & Customization
 
-- To change default QR settings (version, box size, border), edit the parameters in the qrcode.QRCode(...) constructor inside main.py.
-- To style the GUI further, open QRCodeGUI.ui in Qt Designer and make adjustments then save.
+- To change default QR settings (version, box size, border), edit the parameters in the `qrcode.QRCode(...)` constructor inside `main.py`.
+- To style the GUI further, open `QRCodeGUI.ui` in Qt Designer and make adjustments then save.
 
-###🤝 Contributing
+## 🤝 Contributing
 
 Feel free to open issues or submit pull requests. For major changes, please discuss what you’d like to change via an issue first.
 
+## 📜 License
 
-###📜 License
-
-This project is licensed under the MIT License. See the LICENSE file for details
-
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 <br>
 PS --> This is my 1st project and so has more of comments than code ;))
