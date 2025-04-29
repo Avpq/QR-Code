@@ -67,6 +67,7 @@ A simple desktop application built with Python and PyQt5 for generating and read
 <p align="center">
   <img src="assests/image_programme.png" width="600" height ="400" alt="Project Logo"/>
 </p>
+</div>
 
 4. Text to QR
 - Enter the text you wish to convert
