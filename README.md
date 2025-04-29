@@ -65,7 +65,7 @@ A simple desktop application built with Python and PyQt5 for generating and read
 3. The main window will open—use the buttons to generate or read QR codes.
 
 <p align="center">
-  <img src="assests/image_programme.png" width="200" alt="Project Logo"/>
+  <img src="assests/image_programme.png" width="400" height ="400" alt="Project Logo"/>
 </p>
 
 ## 📁 Project Structure
