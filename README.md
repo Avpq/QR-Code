@@ -4,7 +4,8 @@
 
 This is my __1st Project__ ever project. 
 
-<br> The motivation behind this project was for rising popularity of QR codes all over the world, in India qr codes are used day to day in order to implement the [UPI Payment method] (https://en.wikipedia.org/wiki/Unified_Payments_Interface)
+The motivation behind this project was for rising popularity of QR codes all over the world, in India qr codes are used day to day
+in order to implement the [UPI Payment method](https://en.wikipedia.org/wiki/Unified_Payments_Interface)
 
 <br> Then i read read [this paper] (https://www.researchgate.net/publication/318125149_An_Introduction_to_QR_Code_Technology)
 about the technology and how it works on the basic building blocks of computers ie 0|1, i was also ammused by how this perfectly aligns with the black and white printing used on paper to represent these QR codes where in 1 is represnted by the black color and white is used for 0.
