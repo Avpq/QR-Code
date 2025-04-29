@@ -73,7 +73,6 @@ A simple desktop application built with Python and PyQt5 for generating and read
 - Enter the text you wish to convert
 - Click on the text to QR button, the QR code will be generated
 - Now Go To File \< Save, now enter the filename and the location you wish to save the image in
-https://github.com/user-attachments/assets/92da8280-5a00-49c7-8376-803e7fdc4280
 
 ## 📁 Project Structure
 
