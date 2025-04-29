@@ -94,6 +94,7 @@ A simple desktop application built with Python and PyQt5 for generating and read
 ├── requirements.txt   # Python dependencies
 ├── LICENSE            # License file
 └── README.md          # This documentation
+└── assests            # Contains the sample images used during demonstration
 ``` 
 
 ## 📝 Configuration & Customization
@@ -103,7 +104,8 @@ A simple desktop application built with Python and PyQt5 for generating and read
 
 ## 🤝 Contributing
 
-Feel free to open issues or submit pull requests. For major changes, please discuss what you’d like to change via an issue first or send me an [e-mail](avisahai96@gmail.com).
+Feel free to open issues or submit pull requests. For major changes, please discuss what you’d like to change via an issue first or send me an [e-mail](mailto:your.name@example.com?subject=Contribute&body=Write%20how%20you%20will%20contribute%20here)
+
 
 ## 📜 License
 
