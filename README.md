@@ -23,8 +23,8 @@ A simple desktop application built with Python and PyQt5 for generating and read
 
 ## 🛠️ Features
 
-- **Generate QR Codes**: Create QR codes with configurable version, box size, border, and error correction level.
-- **Read QR Codes**: Scan and decode existing QR codes using your webcam or image file with OpenCV.
+- **Generate QR Codes**: Create QR codes.
+- **Read QR Codes**: Scan and decode existing QR codes with OpenCV.
 - **Save & Export**: Save generated QR codes as image files (PNG).
 
 ## 📦 Prerequisites
@@ -39,8 +39,8 @@ A simple desktop application built with Python and PyQt5 for generating and read
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/Avpq/QR-Code.git
+   cd QR-Code
    ```
 
 2. **Create & activate a virtual environment** (optional but recommended):
@@ -63,6 +63,7 @@ A simple desktop application built with Python and PyQt5 for generating and read
    python main.py
    ```
 3. The main window will open—use the buttons to generate or read QR codes.
+4. 
 
 ## 📁 Project Structure
 
@@ -76,15 +77,17 @@ A simple desktop application built with Python and PyQt5 for generating and read
 
 ## 📝 Configuration & Customization
 
-- To change default QR settings (version, box size, border), edit the parameters in the `qrcode.QRCode(...)` constructor inside `main.py`.
+- To change default QR settings edit the parameters in the `qrcode.QRCode(...)` constructor inside `main.py`.
 - To style the GUI further, open `QRCodeGUI.ui` in Qt Designer and make adjustments then save.
 
 ## 🤝 Contributing
 
-Feel free to open issues or submit pull requests. For major changes, please discuss what you’d like to change via an issue first.
+Feel free to open issues or submit pull requests. For major changes, please discuss what you’d like to change via an issue first or send me an [e-mail](avisahai96@gmail.com).
 
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
 <br>
 PS --> This is my 1st project and so has more of comments than code ;))
