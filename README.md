@@ -1,2 +1,3 @@
 # QR-Code
-This is my initial work on this QR code Project. 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
