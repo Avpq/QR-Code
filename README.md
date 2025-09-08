@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-This is my __1st Project__ ever project. 
+This is my __1st Project__  ever.
 
 The motivation behind this project was for rising popularity of QR codes all over the world, in India qr codes are used day to day
 in order to implement the [UPI Payment method](https://en.wikipedia.org/wiki/Unified_Payments_Interface)
