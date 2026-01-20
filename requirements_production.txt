@@ -1,0 +1,23 @@
+# Production requirements with pinned versions for reproducibility
+# Generated: 2026-01-20
+
+# GUI Framework
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.2
+
+# QR Code generation
+qrcode[pil]==7.4.2
+
+# Image processing
+Pillow==10.1.0
+opencv-python==4.8.1.78
+numpy==1.24.3
+
+# Development dependencies (optional)
+# Uncomment for development environment
+# pytest==7.4.3
+# pytest-cov==4.1.0
+# black==23.11.0
+# flake8==6.1.0
+# mypy==1.7.1
